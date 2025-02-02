@@ -47,6 +47,7 @@
 
 ### Summary
 ![image](https://github.com/user-attachments/assets/6ff2d7db-eb71-42d8-a008-e09501cc9e9a)
+![image](https://github.com/user-attachments/assets/2b95ba19-58ef-4a72-b55a-bdfb5d59688b)
 
 
 ## 7. Create Auto Scaling group
@@ -56,7 +57,18 @@
 
 ![image](https://github.com/user-attachments/assets/8cad4648-cb35-472c-a99e-3bc4ead35c38)
 
+![image](https://github.com/user-attachments/assets/88d25973-add8-4756-9d4f-aedd32660271)
 
+![image](https://github.com/user-attachments/assets/5fadedf9-24fa-4348-a90a-f08f8ab00ead)
+
+-> Choose instance launch options 
+![image](https://github.com/user-attachments/assets/42fe2fe1-5f48-4702-917e-cbbe24127d9d)
+
+-> Attach to an existing load balancer
+![image](https://github.com/user-attachments/assets/bd22846a-b7a3-4603-8e77-b901add9dfbf)
+
+-> Configure group size and scaling
+![image](https://github.com/user-attachments/assets/6c137ce7-75c5-4f56-9401-f25acecf8ee7)
 
 
 
